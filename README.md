@@ -175,7 +175,6 @@ Los nombres, marcas y logotipos de MikroTik pertenecen a sus respectivos propiet
 ## Autor
 
 **Israel Rivas Iglesias**
-Ingeniería Internet Teltan
 
 ## Estado del proyecto
 
